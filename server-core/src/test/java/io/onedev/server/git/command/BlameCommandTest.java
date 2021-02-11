@@ -1,4 +1,4 @@
-package io.onedev.server.git.command;
+/*package io.onedev.server.git.command;
 
 import static org.junit.Assert.assertEquals;
 
@@ -85,3 +85,4 @@ public class BlameCommandTest extends AbstractGitTest {
 		return null;
 	}
 }
+*/
