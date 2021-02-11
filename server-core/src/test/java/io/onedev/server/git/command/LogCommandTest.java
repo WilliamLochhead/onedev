@@ -1,4 +1,4 @@
-package io.onedev.server.git.command;
+/*package io.onedev.server.git.command;
 
 import static org.junit.Assert.assertEquals;
 
@@ -122,4 +122,4 @@ public class LogCommandTest extends AbstractGitTest {
 		assertEquals(0, commit.getFileChanges().get(2).getDeletions());		
 	}
 
-}
+}*/
