@@ -1,4 +1,4 @@
-/*package org.eclipse.jgit.revwalk;
+package org.eclipse.jgit.revwalk;
 
 import static org.junit.Assert.assertEquals;
 
@@ -91,4 +91,3 @@ public class LastCommitsOfChildrenTest extends AbstractGitTest {
 	}
 	
 }
-*/
