@@ -1,4 +1,4 @@
-/*package io.onedev.server.search.commit;
+package io.onedev.server.search.commit;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
@@ -67,4 +67,3 @@ public class CommitQueryTest extends AbstractGitTest {
 	}
 
 }
-*/
